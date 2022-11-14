@@ -14,7 +14,7 @@ ii) `sample_dictionary.txt:` Consists of Possible words for Recommendation.
 
 iii) `keypadImage.png:` This image is used in Canvas of Tkinter Model.
 
-iv) `encoderModel.py`:` This file consists of class name `encoder` that is being imported in `EncodingPhoneNumber-Tkinter.py` for all encoding function except GUI of         Tkinter.
+iv) `encoderModel.py:` This file consists of class name `encoder` that is being imported in `EncodingPhoneNumber-Tkinter.py` for all encoding function except GUI of         Tkinter.
  
  v) `EncodingPhoneNumber-Tkinter.py:` This is Tkinter-based Graphical User Interface(GUI) model.
  
