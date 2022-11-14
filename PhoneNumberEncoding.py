@@ -85,25 +85,3 @@ else:
     for index in list(matched_index_lst):
         print(word_dict[index].split("\n")[0])
         recommended_word_list.append(word_dict[index])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
