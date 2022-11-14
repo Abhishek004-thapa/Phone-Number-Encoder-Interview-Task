@@ -42,3 +42,15 @@
 ### `GUI-Based Model:`
 
 <img src="https://user-images.githubusercontent.com/52848973/201776523-db95b078-feb4-48e1-ae00-966f3a969a1e.png" width="800" height="500" />
+
+## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
+
+## Please DO VISIT my Youtube Channel-- `64bitCODING`: https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
+
+## HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
+### Your one LIKE 👍 gives us MOTIVATION.
+
+### CONTACT ME ON:
+
+linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
+
