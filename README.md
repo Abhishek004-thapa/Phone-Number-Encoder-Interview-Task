@@ -18,10 +18,15 @@
 
     v) `EncodingPhoneNumber-Tkinter.py:` This is Tkinter-based Graphical User Interface(GUI) model.
 
-## `NOTE:`
+#### `NOTE:`
 
    For Console-Based Model -- You will require files (i) and (ii) only. 
 
    But for Tkinter-GUI based model -- You will require files(ii), (iii), (iv) & (v).
  
-{2: ['a', 'b', 'c'], 3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'], 5: ['j', 'k', 'l'], 6: ['m', 'n', 'o'], 7: ['p', 'q', 'r', 's'], 8: ['t', 'u', 'v'], 9: ['w', 'x', 'y', 'z']}
+ ### `APPROACH TO THIS PROBLEM:`
+ 
+ Firstly, I created a dictionary with key as Digit/Number in Mobile Keypad and value as list of characters written over that Digit/Number.
+ 
+{2: ['a', 'b', 'c'],
+3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'], 5: ['j', 'k', 'l'], 6: ['m', 'n', 'o'], 7: ['p', 'q', 'r', 's'], 8: ['t', 'u', 'v'], 9: ['w', 'x', 'y', 'z']}
