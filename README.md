@@ -41,4 +41,4 @@
 
 ### `GUI-Based Model:`
 
-<img src="https://user-images.githubusercontent.com/52848973/201776523-db95b078-feb4-48e1-ae00-966f3a969a1e.png" width="400" height"400"/>
+<img src="https://user-images.githubusercontent.com/52848973/201776523-db95b078-feb4-48e1-ae00-966f3a969a1e.png" width="400" height="400" />
