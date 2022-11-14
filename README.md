@@ -26,7 +26,6 @@
  
  ### `APPROACH TO THIS PROBLEM:`
  
- Firstly, I created a dictionary with key as Digit/Number in Mobile Keypad and value as list of characters written over that Digit/Number.
+ Firstly, I created a dictionary with key as Digit/Number in Mobile Keypad and value as list of characters written over that Digit/Number. Below is glimspe of our dicionary.
  
-{2: ['a', 'b', 'c'],
-3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'], 5: ['j', 'k', 'l'], 6: ['m', 'n', 'o'], 7: ['p', 'q', 'r', 's'], 8: ['t', 'u', 'v'], 9: ['w', 'x', 'y', 'z']}
+`{2: ['a', 'b', 'c'], 3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'], 5: ['j', 'k', 'l'], 6: ['m', 'n', 'o'], 7: ['p', 'q', 'r', 's'], 8: ['t', 'u', 'v'], 9: ['w', 'x', 'y', 'z']}`
