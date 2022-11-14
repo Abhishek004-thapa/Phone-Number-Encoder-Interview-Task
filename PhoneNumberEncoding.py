@@ -36,7 +36,7 @@ for j in range(i+3, 25, 4):
     digit = digit + 1
 # print(map_dict)
 
-'''Creating Encoded.txt file which has replaced each alphabet in file with their Number/Digit in Mobile Keypad'''
+'''Creating Encoded.txt file which has replaced each alphabet in file with their corresponding Number/Digit in Mobile Keypad'''
 
 with open("sample_dictionary.txt", "r+") as fread, open("encoded.txt", "w+") as fwrite:
     word_dict = fread.readlines()
