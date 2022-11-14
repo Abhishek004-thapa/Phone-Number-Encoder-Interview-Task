@@ -29,3 +29,16 @@
  Firstly, I created a dictionary with key as Digit/Number in Mobile Keypad and value as list of characters written over that Digit/Number. Below is glimspe of our dicionary.
  
 `{2: ['a', 'b', 'c'], 3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'], 5: ['j', 'k', 'l'], 6: ['m', 'n', 'o'], 7: ['p', 'q', 'r', 's'], 8: ['t', 'u', 'v'], 9: ['w', 'x', 'y', 'z']}`
+
+Then, I read word from each line of input file `sample_dictionary.txt` and encoded each char in word to their corresponding key value of above created dictionary.
+
+That encoded word is written line by line to `encoded.txt` file. 
+
+After that, It checks for every matched items in encoded.txt with the phone number entered by user and save its matched index position. 
+
+Using `word_list = fread.readlines()` method, all words in each line of file `sample_dictionary.txt` will be stored as element of list in `word_list`.
+Then, From that list, all items of matched index position are stored which are the required `List of Recommended Words`.
+
+### `GUI-Based Model:`
+
+![image](https://user-images.githubusercontent.com/52848973/201776523-db95b078-feb4-48e1-ae00-966f3a969a1e.png)
