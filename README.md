@@ -1,4 +1,4 @@
-# Phone-Number-Encoder-WISEYAK-Interview-Task
+# Phone-Number-Encoder-Interview-Task
 
 ## `WISEYAK TECHNICAL INTERVIEW QUESTION`
  
